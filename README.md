@@ -1,14 +1,20 @@
 <h3 align="left">Support:</h3>
 
-<p>
-    <strong>USDT - TRX (TRON TRC-20):</strong> TChDBfpKwHPX7CLnqvtQGG7jr9jvaB5KWq<br>
-    <img src="https://github.com/ozymotv/supportme/blob/main/docs/usdt.jpg?raw=true" alt="USDT QR Code" height="150" width="150">
-</p>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://github.com/ozymotv/supportme/blob/main/docs/usdt.jpg?raw=true" alt="USDT QR Code" height="150" width="150" style="margin-right: 20px;">
+    <div>
+        <strong>USDT - TRX (TRON TRC-20):</strong><br>
+        TChDBfpKwHPX7CLnqvtQGG7jr9jvaB5KWq
+    </div>
+</div>
 
-<p>
-    <strong>BTC - BTC network:</strong> 1MnnTJBfdYEpeLgCFYf4NiMLg1UGRvijsz<br>
-    <img src="https://github.com/ozymotv/supportme/blob/main/docs/btc.jpg?raw=true" alt="BTC QR Code" height="150" width="150">
-</p>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://github.com/ozymotv/supportme/blob/main/docs/btc.jpg?raw=true" alt="BTC QR Code" height="150" width="150" style="margin-right: 20px;">
+    <div>
+        <strong>BTC - BTC network:</strong><br>
+        1MnnTJBfdYEpeLgCFYf4NiMLg1UGRvijsz
+    </div>
+</div>
 
 <p>
     <a href="https://www.buymeacoffee.com/ozymotvz">
