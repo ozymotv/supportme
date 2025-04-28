@@ -1,4 +1,4 @@
-<h3 align="left">Support:</h3>
+<h3 align="left">Support me:</h3>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://github.com/ozymotv/supportme/blob/main/docs/usdt.jpg?raw=true" alt="USDT QR Code" height="150" width="150" style="margin-right: 20px;">
@@ -8,6 +8,10 @@
     </div>
 </div>
 
+
+
+----------------------------------------------------------------------
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://github.com/ozymotv/supportme/blob/main/docs/btc.jpg?raw=true" alt="BTC QR Code" height="150" width="150" style="margin-right: 20px;">
     <div>
@@ -16,6 +20,10 @@
     </div>
 </div>
 
+
+
+
+----------------------------------------------------------------------
 <p>
     <a href="https://www.buymeacoffee.com/ozymotvz">
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ozymotvz" />
